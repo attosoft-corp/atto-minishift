@@ -68,7 +68,7 @@ To login as administrator:
 Congratulations! You just installed minishift! You can now type **minishift console**
  to **open the Web UI in your default browser**! Don’t worry about the insecure connection, that’s just because the certificate is **self-signed**.
 
-[![OpenShift Web Login](https://www.marksei.com/wp-content/uploads/2017/12/OpenShift-Web-Login.png)](https://www.marksei.com/wp-content/uploads/2017/12/OpenShift-Web-Login.png)
+[![OpenShift Web Login](/content/OpenShift-Web-Login.png)](/content/OpenShift-Web-Login.png)
 
 OpenShift Web Login
 
@@ -76,7 +76,7 @@ OpenShift Web Login
 
 Once logged:
 
-[![OpenShift Web Console](https://www.marksei.com/wp-content/uploads/2017/12/OpenShift-Web-Console.png)](https://www.marksei.com/wp-content/uploads/2017/12/OpenShift-Web-Console.png)
+[![OpenShift Web Console](/content/OpenShift-Web-Console.png)](/content/OpenShift-Web-Console.png)
 
 ## Accessing OpenShift
 
